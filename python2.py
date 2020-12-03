@@ -1,2 +1,2 @@
 def myfunc():
-    print("hello")
+    print("hello test")
